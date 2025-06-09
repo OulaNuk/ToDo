@@ -150,6 +150,9 @@
             "projectReferences": {
               "D:\\ToDoSolution_SV\\Business\\Business.csproj": {
                 "projectPath": "D:\\ToDoSolution_SV\\Business\\Business.csproj"
+              },
+              "D:\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj"
               }
             }
           }

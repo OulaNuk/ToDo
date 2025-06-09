@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v9.0": {
       "Web/1.0.0": {
         "dependencies": {
-          "Business": "1.0.0"
+          "Business": "1.0.0",
+          "DataAccess": "1.0.0"
         },
         "runtime": {
           "Web.dll": {}
